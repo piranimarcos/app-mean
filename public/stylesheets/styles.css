@@ -80,3 +80,6 @@ button {
 .item.ng-enter.ng-enter-active {
     opacity: 1;
 }
+.center{
+    text-align: center;
+}
